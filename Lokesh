@@ -12,3 +12,6 @@ Always added improvements and fixed bugs on noise service. Many noise service ha
 Added fetch user login lambda to eks portal, added logging to chek user activity on eks portal through fluent bit agent. To send cloudwatch log groups, 
 Added HASS mobile upload and ai anlysis service thtough our noise ai model , so made and add pipe line to handle upload and analysis and gave report to accroding to uploaded noise , fixed that service bugs and always tring to improve that service, added  dryer model ai analysis through uploaded model , always monitoring noise service an trying to improve and maintain and fixed many bugs, 
 Help to added log analyzer through portal of our lambda to help  developer  in error analysis
+Always trying to help juniors and monitors service. 
+
+Da issue tracker : monitoring fixing  and improve da tracker services, support cahe imae video and audio files on lical system application to fetch first and storage upto 1 years cache, i added some improvements on this service
