@@ -1,0 +1,14 @@
+Made a common knox service that will be use by other service as intermediate for sending approvals ans mails on lambda for vis service . We made a common knox service that is using by other team or other  projects also. We made a common knox system that will be re usable and efficient, added batches for version info service  to check status and update on every 5 mins to verifyaproval status .
+Deployed a dev trg env for developer testing purpose and also all configuration on aws ec2 all setup like ASG, template, router, alb etc added in devtrg with code deploy pipe line and alsways trying to optimize cost.
+
+Successfully released version info service and always tring to reduce cost and efficient service and always monitoring service defects and also fixed them anyways. 
+Added logging of version info service to store user logs and avoid unnecessary logs and system logs. Added filter and through fluent bit loggers an always trying to optimize that fluet bit agent pods on versikn info cluster and handle it and optimize it.
+Their is many pods on on versikn info service to stor logs in s3 and cloud watch to  optimize and reduce pods to handle all service logs in going through one fluet bit agent pods to cloudeatch but different different log group on cloudwatch.
+Always Removed unnecessary asg to reduce cost because it open a instance in version info service.
+
+Noise management:  we handle noise service management very efficiently and always tring to optimze.
+ I added successfully common knox service mail system  which onewe crated on version info service to  send knox approval for user unusual activity report on lambda added batches for this.
+Always added improvements and fixed bugs on noise service. Many noise service have many lambda so always trying to improve them and shift thier code to eks portal so we can handle it on one portal so we added code to eks portal and removed them ,
+Added fetch user login lambda to eks portal, added logging to chek user activity on eks portal through fluent bit agent. To send cloudwatch log groups, 
+Added HASS mobile upload and ai anlysis service thtough our noise ai model , so made and add pipe line to handle upload and analysis and gave report to accroding to uploaded noise , fixed that service bugs and always tring to improve that service, added  dryer model ai analysis through uploaded model , always monitoring noise service an trying to improve and maintain and fixed many bugs, 
+Help to added log analyzer through portal of our lambda to help  developer  in error analysis
